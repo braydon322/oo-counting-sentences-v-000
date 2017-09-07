@@ -35,7 +35,6 @@ class String
         new_array.length
       end
     end
-    binding.pry
   end
 
 end
